@@ -13,13 +13,16 @@ This is a team project to implement the DFS algorithm for nodes expansion in the
   **Micro mouse simulator depedency**
   
   
--To install this you can use this [link](https://github.com/mackorone/mms)  
+- To install this you can use this [link](https://github.com/mackorone/mms)  
 
--RunMicromouse Simulator.
+- RunMicromouse Simulator.
 
--Directory:/home/usr/Desktop/Workspace/finalproject3/Final/src
 
--Build Command:g++ API/api.cpp LandBasedRobot/LandBasedRobot.cpp LandBasedTracked/LandBasedTracked.cpp -             LandBasedWheeled/LandBasedWheeled.cpp Algorithm/Algorithm.cpp Maze/MAZE.cpp ../main.cpp
+- Directory:/home/usr/Desktop/Workspace/finalproject3/Final/src
+
+
+- Build Command:g++ API/api.cpp LandBasedRobot/LandBasedRobot.cpp LandBasedTracked/LandBasedTracked.cpp -               LandBasedWheeled/LandBasedWheeled.cpp Algorithm/Algorithm.cpp Maze/MAZE.cpp ../main.cpp
+
 
 - Run Command:./a.out
 
