@@ -11,9 +11,15 @@ This is a team project to implement the DFS algorithm for nodes expansion in the
 <img src="https://github.com/Godcreatebugs/ENPM809Y-DFS-Using-Micro-Mouse-simulator/blob/master/DFS.gif" width="400" height="250">
   
   **Micro mouse simulator depedency**
+  
+  
 -To install this you can use this [link](https://github.com/mackorone/mms)  
+
 -RunMicromouse Simulator.
+
 -Directory:/home/usr/Desktop/Workspace/finalproject3/Final/src
+
 -Build Command:g++ API/api.cpp LandBasedRobot/LandBasedRobot.cpp LandBasedTracked/LandBasedTracked.cpp -             LandBasedWheeled/LandBasedWheeled.cpp Algorithm/Algorithm.cpp Maze/MAZE.cpp ../main.cpp
--Run Command:./a.out
+
+- Run Command:./a.out
 
